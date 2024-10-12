@@ -16,8 +16,6 @@ body{
     background-repeat: no-repeat;
     background-size: 100vw;
     color: white;
-     background-size: cover;
-        min-height: 100vh;
     p{
         
     animation: body linear;
